@@ -13,7 +13,7 @@ let defaultHTML = `
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+      Hello Begin!
     </h1>
 
     <p class="center-text">
